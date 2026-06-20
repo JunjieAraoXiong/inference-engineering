@@ -12,7 +12,7 @@ The loop:
 6. Mark progress in `progress.md`.
 7. Commit the notes, progress, manifests, and scripts. Leave `artifacts/` and `downloads/` untracked.
 
-See `docs/learning-loop.md` for the full operating loop.
+See `docs/learning-loop.md` for the full operating loop and `docs/mastery-guide.md` for the 10-agent synthesis of the highest-value skills and mastery path.
 
 ## Layout
 
