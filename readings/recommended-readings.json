@@ -1,0 +1,968 @@
+[
+  {
+    "category": "General",
+    "title": "Baseten Blog",
+    "url": "https://www.baseten.com/blog",
+    "source_pdf_page": 235,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Architecture",
+    "title": "Attention is All You Need, by Ashish Vaswani et al. (Neural Information Processing Systems, 2017)",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "source_pdf_page": 236,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/1706.03762.pdf",
+    "local_path": "downloads/readings/architecture/attention-is-all-you-need-by-ashish-vaswani-et-al-neural-information-processing-systems-20.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, by Jacob Devlin et al. (North American Chapter of the Association for Computational Linguistics, 2019)",
+    "url": "https://arxiv.org/abs/1810.04805",
+    "source_pdf_page": 236,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/1810.04805.pdf",
+    "local_path": "downloads/readings/architecture/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-by-jacob-d.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models, by Junnan Li et al. (International Conference on Machine Learning, 2023)",
+    "url": "https://arxiv.org/abs/2301.12597",
+    "source_pdf_page": 236,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2301.12597.pdf",
+    "local_path": "downloads/readings/architecture/blip-2-bootstrapping-language-image-pre-training-with-frozen-image-encoders-and-large-lang.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Deep Learning, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (The MIT Press, 2016)",
+    "url": "https://www.deeplearningbook.org/",
+    "source_pdf_page": 236,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Architecture",
+    "title": "Deep Learning with Python (2nd Edition), by Francois Chollet (Manning, 2021)",
+    "url": "https://www.manning.com/books/deep-learning-with-python-second-edition",
+    "source_pdf_page": 236,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Architecture",
+    "title": "Denoising Diffusion Probabilistic Models, by Jonathan Ho et al. (ArXiv abs/2006.11239, 2020)",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "source_pdf_page": 236,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2006.11239.pdf",
+    "local_path": "downloads/readings/architecture/denoising-diffusion-probabilistic-models-by-jonathan-ho-et-al-arxiv-abs-2006-11239-2020.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "DiT: Scalable Diffusion Models with Transformers, by William Peebles and Saining Xie (International Conference on Computer Vision (ICCV), 2022)",
+    "url": "https://arxiv.org/abs/2212.09748",
+    "source_pdf_page": 237,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2212.09748.pdf",
+    "local_path": "downloads/readings/architecture/dit-scalable-diffusion-models-with-transformers-by-william-peebles-and-saining-xie-interna.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO Awareness, by Tri Dao et al. (ArXiv abs/2205.14135, 2022)",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "source_pdf_page": 237,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2205.14135.pdf",
+    "local_path": "downloads/readings/architecture/flashattention-fast-and-memory-efficient-exact-attention-with-io-awareness-by-tri-dao-et-a.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning, by Tri Dao (ArXiv abs/2307.08691, 2023)",
+    "url": "https://arxiv.org/abs/2307.08691",
+    "source_pdf_page": 237,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2307.08691.pdf",
+    "local_path": "downloads/readings/architecture/flashattention-2-faster-attention-with-better-parallelism-and-work-partitioning-by-tri-dao.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision, by Jay Shah et al. (ArXiv abs/2407.08608, 2024)",
+    "url": "https://arxiv.org/abs/2407.08608",
+    "source_pdf_page": 237,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2407.08608.pdf",
+    "local_path": "downloads/readings/architecture/flashattention-3-fast-and-accurate-attention-with-asynchrony-and-low-precision-by-jay-shah.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Flash-Attention-4, by Tri Dao (Dao AI Research Lab, 2025)",
+    "url": "https://github.com/Dao-AILab/flash-attention",
+    "source_pdf_page": 237,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Architecture",
+    "title": "Imagen Video: High Definition Video Generation with Diffusion Models, by Jonathan Ho et al. (ArXiv abs/2210.02303, 2022)",
+    "url": "https://arxiv.org/abs/2210.02303",
+    "source_pdf_page": 237,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2210.02303.pdf",
+    "local_path": "downloads/readings/architecture/imagen-video-high-definition-video-generation-with-diffusion-models-by-jonathan-ho-et-al-a.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Language Models Are Few-Shot Learners, by Tom Brown et al. (ArXiv abs/2005.14165)",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2005.14165.pdf",
+    "local_path": "downloads/readings/architecture/language-models-are-few-shot-learners-by-tom-brown-et-al-arxiv-abs-2005-14165.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Learning Transferable Visual Models from Natural Language Supervision, by Alec Radford et al. (International Conference on Machine Learning, 2021)",
+    "url": "https://arxiv.org/abs/2103.00020",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2103.00020.pdf",
+    "local_path": "downloads/readings/architecture/learning-transferable-visual-models-from-natural-language-supervision-by-alec-radford-et-a.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Longformer: The Long-Document Transformer, by Iz Beltagy et al. (ArXiv abs/2004.05150, 2020)",
+    "url": "https://arxiv.org/abs/2004.05150",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2004.05150.pdf",
+    "local_path": "downloads/readings/architecture/longformer-the-long-document-transformer-by-iz-beltagy-et-al-arxiv-abs-2004-05150-2020.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces, by Albert Gu and Tri Dao (ArXiv abs/2312.00752, 2023)",
+    "url": "https://arxiv.org/abs/2312.00752",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2312.00752.pdf",
+    "local_path": "downloads/readings/architecture/mamba-linear-time-sequence-modeling-with-selective-state-spaces-by-albert-gu-and-tri-dao-a.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Matryoshka Representation Learning, by Aditya Kusupati et al. (Neural Information Processing Systems, 2022)",
+    "url": "https://arxiv.org/abs/2205.13147",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2205.13147.pdf",
+    "local_path": "downloads/readings/architecture/matryoshka-representation-learning-by-aditya-kusupati-et-al-neural-information-processing.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, by Noam Shazeer et al. (ArXiv abs/1701.06538, 2017)",
+    "url": "https://arxiv.org/abs/1701.06538",
+    "source_pdf_page": 238,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/1701.06538.pdf",
+    "local_path": "downloads/readings/architecture/outrageously-large-neural-networks-the-sparsely-gated-mixture-of-experts-layer-by-noam-sha.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Reformer: The Efficient Transformer, by Nikita Kitaev et al. (ArXiv abs/2001.04451, 2020)",
+    "url": "https://arxiv.org/abs/2001.04451",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2001.04451.pdf",
+    "local_path": "downloads/readings/architecture/reformer-the-efficient-transformer-by-nikita-kitaev-et-al-arxiv-abs-2001-04451-2020.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Robust Speech Recognition via Large-Scale Weak Supervision, by Alec Radford et al. (International Conference on Machine Learning, 2022)",
+    "url": "https://arxiv.org/abs/2212.04356",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2212.04356.pdf",
+    "local_path": "downloads/readings/architecture/robust-speech-recognition-via-large-scale-weak-supervision-by-alec-radford-et-al-internati.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding, by Jianlin Su et al. (ArXiv abs/2104.09864, 2021)",
+    "url": "https://arxiv.org/abs/2104.09864",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2104.09864.pdf",
+    "local_path": "downloads/readings/architecture/roformer-enhanced-transformer-with-rotary-position-embedding-by-jianlin-su-et-al-arxiv-abs.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "SDXL: Improving Latent Diffusion Models for High- Resolution Image Synthesis, by Dustin Podell et al. (ArXiv abs/2307.01952, 2023)",
+    "url": "https://arxiv.org/abs/2307.01952",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2307.01952.pdf",
+    "local_path": "downloads/readings/architecture/sdxl-improving-latent-diffusion-models-for-high-resolution-image-synthesis-by-dustin-podel.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Segment Anything, by Alexander Kirillov et al. (2023 IEEE/CVF International Conference on Computer Vision (ICCV), 2023)",
+    "url": "https://arxiv.org/abs/2304.02643",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2304.02643.pdf",
+    "local_path": "downloads/readings/architecture/segment-anything-by-alexander-kirillov-et-al-2023-ieee-cvf-international-conference-on-com.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Sentence-BERT: Sentence Embeddings Using Siamese BERT-Networks, by Nils Reimers and Iryna Gurevych (ArXiv abs/1908.10084, 2019)",
+    "url": "https://arxiv.org/abs/1908.10084",
+    "source_pdf_page": 239,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/1908.10084.pdf",
+    "local_path": "downloads/readings/architecture/sentence-bert-sentence-embeddings-using-siamese-bert-networks-by-nils-reimers-and-iryna-gu.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "The Llama 3 Herd of Models, by Aaron Grattafiori et al. (ArXiv 2407.21783, 2024)",
+    "url": "https://arxiv.org/abs/2407.21783",
+    "source_pdf_page": 240,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2407.21783.pdf",
+    "local_path": "downloads/readings/architecture/the-llama-3-herd-of-models-by-aaron-grattafiori-et-al-arxiv-2407-21783-2024.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Video Diffusion Models, by Jonathan Ho et al. (ArXiv abs/2204.03458, 2022)",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "source_pdf_page": 240,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2204.03458.pdf",
+    "local_path": "downloads/readings/architecture/video-diffusion-models-by-jonathan-ho-et-al-arxiv-abs-2204-03458-2022.pdf"
+  },
+  {
+    "category": "Architecture",
+    "title": "Visual Instruction Tuning, by Haotian Liu et al. (ArXiv abs/2304.08485, 2023)",
+    "url": "https://arxiv.org/abs/2304.08485",
+    "source_pdf_page": 240,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2304.08485.pdf",
+    "local_path": "downloads/readings/architecture/visual-instruction-tuning-by-haotian-liu-et-al-arxiv-abs-2304-08485-2023.pdf"
+  },
+  {
+    "category": "Developer Tools",
+    "title": "BitsAndBytes by bitsandbytes-foundation",
+    "url": "https://github.com/TimDettmers/bitsandbytes",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "ComfyUI by comfyanonymous",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "CUDA by Example: An Introduction to General Purpose GPU Programming, by Jason Sanders and Edward Kandrot (NVIDIA developer, 2025)",
+    "url": "https://developer.nvidia.com/cuda-example",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "CUDA C++ Programming Guide Release 13.0, by NVIDIA (2025)",
+    "url": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "CUDA cuBLAS Release 13.0, by NVIDIA (2025)",
+    "url": "https://docs.nvidia.com/cuda/cublas/",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "CUTLASS by NVIDIA",
+    "url": "https://github.com/NVIDIA/cutlass",
+    "source_pdf_page": 241,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "DeepGEMM by DeepSeek-ai",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "Hugging Face Diffusers by Hugging Face",
+    "url": "https://huggingface.co/docs/diffusers/index",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "LMCache by LMCache Project",
+    "url": "https://github.com/LMCache/LMCache",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "NVIDIA Dynamo Documentation, by NVIDIA (2025)",
+    "url": "https://docs.nvidia.com/dynamo/latest/index.html",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "NVIDIA Nsight Systems by NVIDIA",
+    "url": "https://developer.nvidia.com/nsight-systems",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "NVIDIA Triton Inference Server by NVIDIA",
+    "url": "https://github.com/triton-inference-server/server",
+    "source_pdf_page": 242,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "ONNX Runtime by Microsoft",
+    "url": "https://onnxruntime.ai/",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "PyTorch Performance Tuning Guide, by Szymon Migacz (PyTorch Foundation, 2020)",
+    "url": "https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "PyTorch Profiler, by Shivam Raikundalia (PyTorch Foundation, 2021)",
+    "url": "https://pytorch.org/tutorials/recipes/recipes/profiler_recipe.html",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "SGLang Project by LMSYS Org",
+    "url": "https://github.com/sgl-project/sglang",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "TensorRT Documentation, by NVIDIA (2025)",
+    "url": "https://docs.nvidia.com/deeplearning/tensorrt/",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "TensorRT-LLM by NVIDIA",
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "source_pdf_page": 243,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "Transformers by Hugging Face",
+    "url": "https://huggingface.co/docs/transformers/index",
+    "source_pdf_page": 244,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Developer Tools",
+    "title": "vLLM Project by The Linux Foundation",
+    "url": "https://github.com/vllm-project/vllm",
+    "source_pdf_page": 244,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "DeepSeek, by DeepSeek AI",
+    "url": "https://huggingface.co/deepseek-ai",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "FLUX, by Black Forest Labs",
+    "url": "https://huggingface.co/black-forest-labs",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Gemma, by Google",
+    "url": "https://huggingface.co/google",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "GLM, by Z.ai",
+    "url": "https://huggingface.co/zai-org",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "GPT OSS, by OpenAI",
+    "url": "https://huggingface.co/openai",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Kimi, by Moonshot AI",
+    "url": "https://huggingface.co/moonshotai",
+    "source_pdf_page": 245,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Llama, by Meta Llama",
+    "url": "https://huggingface.co/meta-llama",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "MiniMax, by MiniMax AI",
+    "url": "https://huggingface.co/MiniMaxAI",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Mistral, by Mistral AI",
+    "url": "https://huggingface.co/mistralai",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Nemotron, by NVIDIA",
+    "url": "https://huggingface.co/nvidia",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Orpheus, by Canopy Labs",
+    "url": "https://huggingface.co/canopylabs",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Qwen, by Alibaba Qwen",
+    "url": "https://huggingface.co/Qwen",
+    "source_pdf_page": 246,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Frontier Open Models",
+    "title": "Wan, by Wan-AI",
+    "url": "https://huggingface.co/Wan-AI",
+    "source_pdf_page": 247,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "Designing Data-Intensive Applications, by Martin Kleppmann (OReilly Media, 2017)",
+    "url": "https://dataintensive.net/",
+    "source_pdf_page": 248,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "Grace Hopper / Grace Blackwell Systems by NVIDIA",
+    "url": "https://www.nvidia.com/en-us/data-center/grace-cpu/",
+    "source_pdf_page": 248,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "GPU Glossary, by Frye et al. (Modal, 2025)",
+    "url": "https://modal.com/gpu-glossary",
+    "source_pdf_page": 248,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "InfiniBand, by NVIDIA",
+    "url": "https://www.nvidia.com/en-us/networking/products/infiniband/",
+    "source_pdf_page": 248,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "Kubernetes Documentation, by The Kubernetes Authors (The Linux Foundation, 2025)",
+    "url": "https://kubernetes.io/docs/home/",
+    "source_pdf_page": 248,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "NVIDIA Blackwell Architecture Technical Brief: Built for the Age of AI Reasoning, (NVIDIA, 2025)",
+    "url": "https://resources.nvidia.com/en-us-blackwell-architecture?ncid=no-ncid",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "NVIDIA H100 Tensor Core GPU Architecture: Exceptional Performance, Scalability and Security for the Data Center, (NVIDIA, 2023)",
+    "url": "https://resources.nvidia.com/en-us-hopper-architecture/nvidia-h100-tensor-c",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "NVIDIA Tesla: A Unified Graphics and Computing Architecture,\" by E. Lindholm et al. (IEEE Micro, March April 2008)",
+    "url": "https://ieeexplore.ieee.org/document/4523358",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "NVLink / NVSwitch, by NVIDIA",
+    "url": "https://www.nvidia.com/en-us/data-center/nvlink/",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "Programming Massively Parallel Processors: A Hands-on Approach, by Wen-mei Hwu, David Kirk, Izzat El Hajj (Morgan Kaufmann, 2022)",
+    "url": "https://www.goodreads.com/work/editions/10244675-programming-massively-parallel-processors-a-hands-on-approach",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "SemiAnalysis, by Dylan Patel (SemiAnalysis, 2025)",
+    "url": "https://semianalysis.com/",
+    "source_pdf_page": 249,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "GPU Infrastructure",
+    "title": "Site Reliability Engineering: How Google Runs Production Services, edited by Betsy Beyer et al. (OReilly Media, 2017)",
+    "url": "https://sre.google/books/",
+    "source_pdf_page": 250,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Adversarial Diffusion Distillation, by Axel Sauer et al. (European Conference on Computer Vision, 2023)",
+    "url": "https://arxiv.org/abs/2311.17042",
+    "source_pdf_page": 251,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2311.17042.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/adversarial-diffusion-distillation-by-axel-sauer-et-al-european-conference-on-computer-vis.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation, by Ofir Press, Noah Smith, and Mike Lewis (ArXiv abs/2108.12409, 2021)",
+    "url": "https://arxiv.org/abs/2108.12409",
+    "source_pdf_page": 251,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2108.12409.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/train-short-test-long-attention-with-linear-biases-enables-input-length-extrapolation-by-o.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration, by Song Han (MIT, 2024)",
+    "url": "https://github.com/mit-han-lab/llm-awq",
+    "source_pdf_page": 251,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Cache-DIT by Vipshop",
+    "url": "https://github.com/vipshop/cache-dit",
+    "source_pdf_page": 251,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion, by Jiayi Yao et al. (Proceedings of the Twentieth European Conference on Computer Systems, 2024)",
+    "url": "https://arxiv.org/abs/2405.16444",
+    "source_pdf_page": 251,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2405.16444.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/cacheblend-fast-large-language-model-serving-for-rag-with-cached-knowledge-fusion-by-jiayi.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Adding Conditional Control to Text-to-Image Diffusion Models, by Lymin Zhang et al. (International Conference on Computer Vision, 2023)",
+    "url": "https://arxiv.org/abs/2302.05543",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2302.05543.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/adding-conditional-control-to-text-to-image-diffusion-models-by-lymin-zhang-et-al-internat.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Beyond the Buzz: A Pragmatic Take on Inference Disaggregation, by Tiyasa Mitra et al. (ArXiv abs/2506.05508, 2025)",
+    "url": "https://arxiv.org/abs/2506.05508",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2506.05508.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/beyond-the-buzz-a-pragmatic-take-on-inference-disaggregation-by-tiyasa-mitra-et-al-arxiv-a.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Break the Sequential Dependency of LLM Inference Using Lookahead Decoding, by Yichao Fu et al. (ArXiv abs/2402.02057, 2024)",
+    "url": "https://arxiv.org/abs/2402.02057",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2402.02057.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/break-the-sequential-dependency-of-llm-inference-using-lookahead-decoding-by-yichao-fu-et.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty, by Yuhui Li et al. (ArXiv abs/2401.15077, 2024)",
+    "url": "https://arxiv.org/abs/2401.15077",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2401.15077.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/eagle-speculative-sampling-requires-rethinking-feature-uncertainty-by-yuhui-li-et-al-arxiv.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees, by Yuhui Li et al. (Conference on Empirical Methods in Natural Language Processing, 2024)",
+    "url": "https://arxiv.org/abs/2406.16858",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2406.16858.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/eagle-2-faster-inference-of-language-models-with-dynamic-draft-trees-by-yuhui-li-et-al-con.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test, by Yuhui Li et al. (ArXiv abs/2503.01840, 2025)",
+    "url": "https://arxiv.org/abs/2503.01840",
+    "source_pdf_page": 252,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2503.01840.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/eagle-3-scaling-up-inference-acceleration-of-large-language-models-via-training-time-test.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving, by Ye et al. (ArXiv abs/2501.01005, 2025)",
+    "url": "https://arxiv.org/abs/2501.01005",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2501.01005.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/flashinfer-efficient-and-customizable-attention-engine-for-llm-inference-serving-by-ye-et.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers, by Elias Frantar (ArXiv abs/2210.17323, 2022)",
+    "url": "https://arxiv.org/abs/2210.17323",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2210.17323.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/gptq-accurate-post-training-quantization-for-generative-pre-trained-transformers-by-elias.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models, by Robin Rombach et al. (Conference on Computer Vision and Pattern Recognition (CVPR), 2021)",
+    "url": "https://arxiv.org/abs/2112.10752",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2112.10752.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/high-resolution-image-synthesis-with-latent-diffusion-models-by-robin-rombach-et-al-confer.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference, by Simian Luo (ArXiv abs/2310.04378, 2023)",
+    "url": "https://arxiv.org/abs/2310.04378",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2310.04378.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/latent-consistency-models-synthesizing-high-resolution-images-with-few-step-inference-by-s.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale, by Tim Dettmers et al. (ArXiv abs/2208.07339, 2022)",
+    "url": "https://arxiv.org/abs/2208.07339",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2208.07339.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/llm-int8-8-bit-matrix-multiplication-for-transformers-at-scale-by-tim-dettmers-et-al-arxiv.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads, by Tianle Cai et al. (ArXiv abs/2401.10774, 2024)",
+    "url": "https://arxiv.org/abs/2401.10774",
+    "source_pdf_page": 253,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2401.10774.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/medusa-simple-llm-inference-acceleration-framework-with-multiple-decoding-heads-by-tianle.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism, by Mohammad Shoeybi et al. (ArXiv abs/1909.08053, 2019)",
+    "url": "https://arxiv.org/abs/1909.08053",
+    "source_pdf_page": 254,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/1909.08053.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/megatron-lm-training-multi-billion-parameter-language-models-using-model-parallelism-by-mo.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention, by Woosuk Kwon et al. (Proceedings of the 29th Symposium on Operating Systems Principles, 2023)",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "source_pdf_page": 254,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2309.06180.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/efficient-memory-management-for-large-language-model-serving-with-pagedattention-by-woosuk.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Fast Inference from Transformers via Speculative Decoding, by Yaniv Leviathan et al. (International Conference on Machine Learning, 2022)",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "source_pdf_page": 254,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2211.17192.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/fast-inference-from-transformers-via-speculative-decoding-by-yaniv-leviathan-et-al-interna.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Ring Attention with Blockwise Transformers for Near- Infinite Context, by Hao Lin et al. (ArXiv abs/2310.01889, 2023)",
+    "url": "https://arxiv.org/abs/2310.01889",
+    "source_pdf_page": 254,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2310.01889.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/ring-attention-with-blockwise-transformers-for-near-infinite-context-by-hao-lin-et-al-arxi.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "SageAttention: Accurate 8-Bit Attention for Plug-and- play Inference Acceleration, by Jintao Zhang et al. (ArXiv abs/2410.02367, 2024)",
+    "url": "https://arxiv.org/abs/2410.02367",
+    "source_pdf_page": 254,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2410.02367.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/sageattention-accurate-8-bit-attention-for-plug-and-play-inference-acceleration-by-jintao.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "Sequence/Context Parallelism, by Megatron-LM for NVIDIA",
+    "url": "https://github.com/NVIDIA/Megatron-LM",
+    "source_pdf_page": 254,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "SmoothQuant by Song Han (MIT)",
+    "url": "https://github.com/mit-han-lab/smoothquant",
+    "source_pdf_page": 255,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot, by Elias Frantar and Dan Alistarh, (ArXiv abs/2301.00774, 2023)",
+    "url": "https://arxiv.org/abs/2301.00774",
+    "source_pdf_page": 255,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2301.00774.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/sparsegpt-massive-language-models-can-be-accurately-pruned-in-one-shot-by-elias-frantar-an.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "SpecVLM: Fast Speculative Decoding in Vision-Language Models, Haiduo Huang et al. (ArXiv abs/2509.11815, 2025)",
+    "url": "https://arxiv.org/abs/2509.11815",
+    "source_pdf_page": 255,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2509.11815.pdf",
+    "local_path": "downloads/readings/inference-optimization-research/specvlm-fast-speculative-decoding-in-vision-language-models-haiduo-huang-et-al-arxiv-abs-2.pdf"
+  },
+  {
+    "category": "Inference Optimization Research",
+    "title": "TeaCache: Efficient KV Cache Compression via Tensor Decomposition, by Feng Lu et al. (Alibaba TongYi Vision Intelligence Lab, ArXiv abs/2411.19108, 2025)",
+    "url": "https://github.com/ali-vilab/TeaCache",
+    "source_pdf_page": 255,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "ARC AGI Prize by Greg Kamradt (2025)",
+    "url": "https://arcprize.org/",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "Evals for AI Engineers: Systematically Measuring and Improving AI Applications, by Shreya Shankar and Hamel Husain (OReilly Media, forthcoming 2026)",
+    "url": "https://www.oreilly.com/library/view/evals-for-ai/9798341660717/",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "Grade School Math: Training Verifiers to Solve Math Word Problems, by Karl Cobbe and Vineet Kosaraju (ArXiv abs/2110.14168, 2021)",
+    "url": "https://github.com/openai/grade-school-math",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "How to Fine-Tune Qwen3 to GPT-4o Level Performance, by Greg Schoeninger (Fine-Tune Fridays, Oxen AI, 2025)",
+    "url": "https://ghost.oxen.ai/how-to-fine-tune-qwen3-to-gpt-4o-level-performance/",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "Humanitys Last Exam, by Long Phan et al. (Center for AI Safety and Scale AI, ArXiv abs/2501.14249, 2025)",
+    "url": "https://www.lastexam.ai/",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "HumanEval: Evaluating Large Language Models Trained on Code, by Michelle Pokrass, Qiming Yuan, and Yichen Xu (OpenAI, 2021)",
+    "url": "https://github.com/openai/human-eval",
+    "source_pdf_page": 256,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "MMLU: Measuring Massive Multitask Language Understanding, by Dan Hendrycks et al. (Proceedings of the International Conference on Learning Representations (ICLR), 2021)",
+    "url": "https://github.com/hendrycks/test",
+    "source_pdf_page": 257,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "MTEB: Massive Text Embedding Benchmark, by Niklas Muenninghoff et al. (Conference of the European Chapter of the Association for Computational Linguistics, 2022)",
+    "url": "https://arxiv.org/abs/2210.07316",
+    "source_pdf_page": 257,
+    "download_status": "downloaded",
+    "notes": "",
+    "download_url": "https://arxiv.org/pdf/2210.07316.pdf",
+    "local_path": "downloads/readings/intelligence-evaluation/mteb-massive-text-embedding-benchmark-by-niklas-muenninghoff-et-al-conference-of-the-europ.pdf"
+  },
+  {
+    "category": "Intelligence Evaluation",
+    "title": "SWE-Bench: Can Language Models Resolve Real-World Github Issues? by Carlos Jimenez et al. (Proceedings of the International Conference on Learning Representations (ICLR), 2024)",
+    "url": "https://www.swebench.com/",
+    "source_pdf_page": 257,
+    "download_status": "skipped_non_direct",
+    "notes": ""
+  }
+]
