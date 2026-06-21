@@ -4,6 +4,30 @@ This guide synthesizes 10 subagent passes over the book structure, extracted loc
 
 The north star: become able to take an inference workload from product requirement to production design, with quantitative tradeoffs for model choice, latency, throughput, hardware, cost, reliability, and optimization technique.
 
+## Time Commitment
+
+Realistic learning time depends on whether the goal is vocabulary, working competence, or production fluency.
+
+| Pace | Time per week | Expected duration | Outcome |
+| --- | --- | --- | --- |
+| Light | 5 hours | 4-6 months | Solid conceptual understanding and useful notes. |
+| Serious | 10 hours | 10-12 weeks | Strong working competence with portfolio artifacts. |
+| Intensive | 15-20 hours | 6-8 weeks | Fast first pass with hands-on benchmarks and a capstone. |
+| Professional depth | Ongoing | 6-12 months | Real production judgment from repeated projects and incidents. |
+
+For this repo, the recommended default is the serious track: 10 focused hours per week for 10-12 weeks. That is enough time to read the book, build the core notes, complete the portfolio artifacts, and produce one capstone inference system design.
+
+Do not try to read everything first. The fastest path is:
+
+1. Weeks 1-2: product framing, evals, model mechanics, latency metrics.
+2. Weeks 3-4: attention, KV cache, bottleneck math, GPU basics.
+3. Weeks 5-6: serving engines, benchmarking, vLLM/SGLang, profiling.
+4. Weeks 7-8: quantization, caching, speculation, parallelism.
+5. Weeks 9-10: modalities and production systems.
+6. Weeks 11-12: capstone architecture, benchmark, and runbook.
+
+Reading alone is not mastery. The evidence of progress is a benchmark, calculator, cost model, hardware memo, runbook, or architecture defense.
+
 ## The Most Valuable Skills
 
 1. Workload framing
