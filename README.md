@@ -17,7 +17,9 @@ See `docs/learning-loop.md` for the full operating loop and `docs/mastery-guide.
 ## Layout
 
 - `chapters/`: one folder per book chapter with notes, figures, questions, and chapter-specific reading pointers.
+- `notes/`: personal concept notes that cut across chapters.
 - `appendices/`: glossary and recommended-reading workspaces.
+- `portfolio/`: concrete artifacts that prove mastery through decisions, measurements, and tradeoffs.
 - `readings/`: tracked reading manifest and index generated from Appendix B.
 - `scripts/`: repeatable parsing, extraction, download, and progress tools.
 - `artifacts/`: ignored local extraction output from the PDF.
