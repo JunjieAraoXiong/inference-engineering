@@ -46,3 +46,7 @@ Keep this repo centered on your understanding:
 - Do commit your summaries, mental models, diagrams redrawn in your own words, questions, experiments, and links.
 - Do not commit the full PDF, full extracted text, full page renders, or downloaded third-party PDFs unless you have explicit rights to publish them.
 - Use short excerpts only when needed for context, then explain them in your own words.
+
+## Ideas
+
+- **OCR for extraction:** Consider [baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR) for the `make extract` step. It is a 3B vision-language OCR model (MIT license) for one-shot long-horizon parsing of the book PDF and figure pages, and runs via Transformers, vLLM, or SGLang.
